@@ -1,1 +1,29 @@
-{"name":"Fluffyy","activities":["play","eat cat food"],"catFriends":[{"name":"bar","activities":["be grumpy","eat bread omblet","play with thread","look outside from the window"],"weight":8,"furcolor":"grey"},{"name":"foo","activities":["sleep","pre-sleep naps","play with thread","look outside from the window"],"weight":3}],"height":50,"weight":5}
+{
+    "name": "Fluffyy",
+    "activities": ["play", "eat cat food"],
+    "catFriends": [
+        {
+            "name": "bar",
+            "activities": [
+                "be grumpy",
+                "eat bread omblet",
+                "play with thread",
+                "look outside from the window"
+            ],
+            "weight": 8,
+            "furcolor": "grey"
+        },
+        {
+            "name": "foo",
+            "activities": [
+                "sleep",
+                "pre-sleep naps",
+                "play with thread",
+                "look outside from the window"
+            ],
+            "weight": 3
+        }
+    ],
+    "height": 50,
+    "weight": 5
+}

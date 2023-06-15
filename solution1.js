@@ -1,3 +1,5 @@
+'use strict'
+
 const fs = require("fs");
 
 // 1. Read JSON File

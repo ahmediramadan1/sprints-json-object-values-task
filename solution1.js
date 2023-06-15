@@ -1,4 +1,4 @@
-'use strict'
+"use strict";
 
 const fs = require("fs");
 
@@ -49,3 +49,7 @@ console.log(totalWeight);
 console.log(totalActivities);
 
 console.log(`Final version of Fluffyy: ${cat}`);
+
+// Output new object to output1.json
+const newData = JSON.stringify(cat);
+fs.writeFileSync("./output1.json", newData, "utf-8");
